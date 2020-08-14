@@ -180,12 +180,21 @@ void testLambda(void) {
             // [=](char c) mutable {cout << i++ << ": " << c << endl;});
 }
 
+#include <memory>
+void close (int *){cout << "end" << endl;};
+void testSharePtr(void) {
+    // 定义函数
+    auto open = []()->int{cout << "begin" << endl; return 0;};
+    // auto close = [](int *){cout << "end" << endl;};
+    // 打开操作
+    auto connect = new int(open());
+    // 绑定到智能指针
+    // shared_ptr<int> p(connect, close);
+    unique_ptr<int, decltype(close) *> p(connect, close);
+    // connect析构时将调用close
+}
 
 int main(int argc, char *argv[]) {
-    testLambda();
-    
-
-    // testItreator();
-    // testStringStream("test.txt");
+    testSharePtr();
     return 0;
 }

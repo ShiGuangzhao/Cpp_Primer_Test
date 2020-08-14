@@ -75,7 +75,7 @@ void WordChanger(const string &file1, const string &file2) {
     }
 }
 
-int main(void) {
+int test(void) {
     try {
         WordChanger("./转换规则.txt", "./需转换文本.txt");
     }
