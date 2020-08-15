@@ -1,0 +1,996 @@
+ 1003  man sqrtl
+ 1004  gcc *.c -lm &&./a.out 
+ 1005  clear
+ 1006  gcc *.c -lm &&./a.out 
+ 1007  vim ~/.vimrc 
+ 1008  google-chrome&
+ 1009  make
+ 1010  ls *.c  1011  make 1012  l 1013  ls *.o
+ 1014  make
+ 1015  make clean 
+ 1016  make
+ 1017  ls
+ 1018  rm a.out 
+ 1019  ./result 
+ 1020  make clean 
+ 1021  cd ..
+ 1022  git status
+ 1023  git add .
+ 1024  git status
+ 1025  git commit -m "分治法求最近点写了一半"
+ 1026  git push origin master 
+ 1027  ls
+ 1028  cd ..
+ 1029  ls
+ 1030  mv 9算法设计技巧 algor_design
+ 1031  google-chrome&
+ 1032  mv algor_design/ 9算法设计技巧
+ 1033  ls
+ 1034  ls 9算法设计技巧/
+ 1035  make
+ 1036  google-chrome&
+ 1037  joplin &
+ 1038  google-chrome&
+ 1039  ls ~/.vim 1040  ls ~/.vim -al
+ 1041  .vim ~/.vim/bundle/YouCompleteMe/.ycm_extra_conf.py 
+ 1042  vim fosdem.sh 
+ 1043  vim a.py 
+ 1044  ls
+ 1045  vim divide_conquer.h 
+ 1046  vim a.py 
+ 1047  pip install flake8
+ 1048  vim a.py 
+ 1049  rm a.py 
+ 1050  ls
+ 1051  vim main.c 
+ 1052  vim divide_conquer.c 
+ 1053  gcc  -c divide_conquer.c 
+ 1054  gcc  -c divide_conquer.c 
+ 1055  vim divide_conquer.c 
+ 1056  ls
+ 1057  rm a.out 
+ 1058  cp ../graph_thesis/makefile .
+ 1059  vim makefile 
+ 1060  g++ *.c
+ 1061  ./a.out 
+ 1062  ls
+ 1063  vim makefile 
+ 1064  make
+ 1065  vim makefile 
+ 1066  make
+ 1067  vim makefile 
+ 1068  ls
+ 1069  vim makefile 
+ 1070  make clean 
+ 1071  make
+ 1072  vim makefile 
+ 1073  make
+ 1074  vim makefile 
+ 1075  ls
+ 1076  make clean 
+ 1077  ls
+ 1078  vim makefile 
+ 1079  cd program/algorithm/
+ 1080  git status
+ 1081  dmesg 
+ 1082  google-chrome&
+ 1083  joplin &
+ 1084  google-chrome&
+ 1085  cd project/
+ 1086  ls
+ 1087  cd openwifi/openwifi/
+ 1088  ls
+ 1089  cd d
+ 1090  cd driver/
+ 1091  ls
+ 1092  ls ad9361/
+ 1093  vim sdr.h 
+ 1094  vim ~/.vimrc 
+ 1095  ls
+ 1096  tree
+ 1097  cat Makefile 
+ 1098  vim sdr.c 
+ 1099  clear
+ 1100  cd ~/program/algorithm/
+ 1101  ls
+ 1102  vim 9算法设计技巧/divide_conquer.c 
+ 1103  joplin &
+ 1104  ls
+ 1105  cd project/openwifi/openwifi/
+ 1106  ls
+ 1107  git status
+ 1108  cd openwifi-hw/
+ 1109  git status
+ 1110  cd ..
+ 1111  git log
+ 1112  git pull origin 
+ 1113  cd openwifi-hw/
+ 1114  git pull origin 
+ 1115  evince ~/download/计算机网络\ \ 自顶向下方法（第七版）\ 中文版.pdf 
+ 1116  ps
+ 1117  screen
+ 1118  screen -h
+ 1119  ls
+ 1120  screen evince Ad_hoc网络_赵志峰.pdf 
+ 1121  vim a.py
+ 1122  clear
+ 1123  screen -l
+ 1124  screen -ls
+ 1125  ps -aux|grep screen
+ 1126  exit
+ 1127  cd program/algorithm/
+ 1128  git pull 
+ 1129  git log
+ 1130  ls
+ 1131  git log
+ 1132  joplin &
+ 1133  evince ~/download/数据结构与算法分析：C语言描述_原书第2版_高清版.pdf &
+ 1134  clear
+ 1135  google-chrome&
+ 1136  cd ~/download
+ 1137  ls
+ 1138  evince 802.11无线网络权威指南+第二版（中文版）.pdf 
+ 1139  ls
+ 1140  evince 智豹电台物理波形总结_v0616.2315.pdf 
+ 1141  exit
+ 1142  ls
+ 1143  screen -ls
+ 1144  ps -aux|grep screen
+ 1145  screen -h
+ 1146  ps -aux|grep screen
+ 1147  screen -ls
+ 1148  screen -r 17929
+ 1149  ps -aux|grep screen
+ 1150  screen -ls
+ 1151  ps -aux |grep 17929
+ 1152  kill 17929
+ 1153  ps -aux |grep 17929
+ 1154  screen -ls
+ 1155  ls
+ 1156  python3
+ 1157  vim a.py
+ 1158  ./a.py
+ 1159  python ./a.py
+ 1160  python ./a.py&
+ 1161  ps
+ 1162  python ./a.py > a.txt&
+ 1163  cat a.txt
+ 1164  ls
+ 1165  vim a.txt 
+ 1166  python ./a.py > a.txt
+ 1167  cat a.txt 
+ 1168  ps
+ 1169  fg
+ 1170  cat a.txt 
+ 1171  vim a.txt 
+ 1172  rm a.txt 
+ 1173  python ./a.py >> a.txt
+ 1174  python ./a.py >> a.txt&
+ 1175  ps
+ 1176  ps -aux|grep python
+ 1177  ps -aux|a.py
+ 1178  ps -aux|grep a.py
+ 1179  cat a.txt 
+ 1180  screen python a.py 
+ 1181  ps
+ 1182  ps -aux |grep a.py
+ 1183  fg -h
+ 1184  fg --help
+ 1185  cat a.txt 
+ 1186  screen -ls
+ 1187  screen -r 20205
+ 1188  ps -aux |grep a.py
+ 1189  kill 201578
+ 1190  kill 20158
+ 1191  kill 201578
+ 1192  ps -aux |grep a.py
+ 1193  screen -ls
+ 1194  joplin &
+ 1195  ps -aux|grep screen
+ 1196  ps -aux|grep joplin
+ 1197  ls
+ 1198  rm a.*
+ 1199  ls
+ 1200  screen -ls
+ 1201  reboot
+ 1202  ls 
+ 1203  ls -al
+ 1204  ls ../
+ 1205  ls ../ -al
+ 1206  echo $HOME
+ 1207  ls
+ 1208  ls -al
+ 1209  man screen
+ 1210  ls
+ 1211  joplin &
+ 1212  ps
+ 1213  ls
+ 1214  evince ~/download/智豹电台物理波形总结_v0616.2315.pdf 
+ 1215  python3
+ 1216  ls
+ 1217  cd project/
+ 1218  cd openwifi/openwifi/
+ 1219  ls
+ 1220  cd openwifi-hw/
+ 1221  ls
+ 1222  ls ip
+ 1223  ls ip/xpu/
+ 1224  ls ip/xpu/src/
+ 1225  ls
+ 1226  git status
+ 1227  git log
+ 1228  ls
+ 1229  ls ip_repo/
+ 1230  tree ip_repo/
+ 1231  ls
+ 1232  display ../doc/openwifi-detail.jpg 
+ 1233  ls
+ 1234  ls adi-hdl/
+ 1235  ls adi-hdl/projects/
+ 1236  ls adi-hdl/li
+ 1237  ls adi-hdl/library/
+ 1238  clear
+ 1239  ls
+ 1240  ls ip
+ 1241  tree ip
+ 1242  tree ip|tail
+ 1243  tree ip_repo/|tail
+ 1244  clear
+ 1245  ls
+ 1246  evince ~/download/数据结构与算法分析：C语言描述_原书第2版_高清版.pdf &
+ 1247  google-chrome
+ 1248  joplin &
+ 1249  cd program/algorithm/
+ 1250  git pull origin 
+ 1251  git status
+ 1252  ls
+ 1253  ls 9算法设计技巧/
+ 1254  ls
+ 1255  git log
+ 1256  evince ~/download/数据结构与算法分析：C语言描述_原书第2版_高清版.pdf &
+ 1257  ls
+ 1258  cd program/algorithm/
+ 1259  git status
+ 1260  git log
+ 1261  clear
+ 1262  google-chrome&
+ 1263  ls
+ 1264  cd /media/shigz/win_DiskD/
+ 1265  ls
+ 1266  ls 文档/
+ 1267  cd 文档/
+ 1268  ls 文档/
+ 1269  cd ..
+ 1270  ls
+ 1271  cd 文档/
+ 1272  ls
+ 1273  mkdir Books
+ 1274  ls
+ 1275  cd d
+ 1276  cd Books/
+ 1277  ls
+ 1278  cp ../文档/.
+ 1279  cp ../文档/ .
+ 1280  mv ../文档/数据结构与算法分析：C语言描述_原书第2版_高清版.pdf .
+ 1281  ls
+ 1282  ls ~/download
+ 1283  ls ~/文档/
+ 1284  mv ~/download/C++\ * .
+ 1285  ls
+ 1286  ls ~/文档/
+ 1287  ls ~/download
+ 1288  mv ~/download/802.11无线网络权威指南+第二版（中文版）.pdf 。
+ 1289  mv 。 download/802.11无线网络权威指南+第二版（中文版）.pdf
+ 1290  mv 。 802.11无线网络权威指南+第二版（中文版）.pdf
+ 1291  ls
+ 1292  ls ~/download
+ 1293  mv ~/download/计算机网络\ \ 自顶向下方法（第七版）\ 中文版.pdf 。
+ 1294  mv 。 计算机网络\ \ 自顶向下方法（第七版）\ 中文版.pdf 
+ 1295  ls
+ 1296  ls ~/download
+ 1297  cd ..
+ 1298  ls
+ 1299  cd 文档/
+ 1300  ls
+ 1301  rm 161180111\ 石广钊\ 2019秋季第*
+ 1302  ls
+ 1303  ls ..
+ 1304  cd ..
+ 1305  ls
+ 1306  ls ..
+ 1307  pwd
+ 1308  ls
+ 1309  pwd
+ 1310  ls ..
+ 1311  cd ..
+ 1312  mv 文档 资料
+ 1313  ls
+ 1314  cd 资料/
+ 1315  ls
+ 1316  df
+ 1317  joplin &
+ 1318  google-chrome&
+ 1319  git clone -h
+ 1320  cd project/openwifi/openwifi/
+ 1321  ls
+ 1322  cd openwifi-hw/
+ 1323  ls
+ 1324  ls ip_repo/
+ 1325  ls ip_repo/high/
+ 1326  ls ip
+ 1327  cd ip
+ 1328  ls
+ 1329  ls ..
+ 1330  ls ../ip_repo/
+ 1331  ls ../ip_repo/high/
+ 1332  ls
+ 1333  ls ..
+ 1334  ls ../..
+ 1335  ls
+ 1336  ls mv_avg128_high/
+ 1337  ls ./* |frep high
+ 1338  ls ./* |grep high
+ 1339  tree |grep high
+ 1340  ls mv_avg128_high/
+ 1341  ls mv_avg32_high/
+ 1342  ls
+ 1343  vim openwifi.tcl 
+ 1344  ;s
+ 1345  ls
+ 1346  claer
+ 1347  clear
+ 1348  ls
+ 1349  cat openwifi_ip.tcl 
+ 1350  vim openwifi_ip.tcl 
+ 1351  ls
+ 1352  vim openwifi_ip_ultra_scale.tcl 
+ 1353  tree mv*
+ 1354  ls ./* |grep high
+ 1355  tree |grep high
+ 1356  tree |grep  low
+ 1357  tree |grep high
+ 1358  clear
+ 1359  vim openwifi_ip_ultra_scale.tcl 
+ 1360  ls ../ip_repo/
+ 1361  ls ../ip_repo/common/
+ 1362  tree ../ip_repo/common/
+ 1363  ls ../ip_repo/
+ 1364  ls ../ip_repo/ultra_scale/
+ 1365  ls ../ip_repo/ultra_scale/xpu/
+ 1366  google-chrome&
+ 1367  ls
+ 1368  ls -al
+ 1369  ls
+ 1370  vim vivado_8752.backup.log 
+ 1371  vim vivado_8752.backup.jou 
+ 1372  hear mv_avg128_fir_compiler_0_0.mif 
+ 1373  head mv_avg128_fir_compiler_0_0.mif 
+ 1374  vim mv_avg128_fir_compiler_0_0.mif 
+ 1375  ls
+ 1376  mkdir vivado_log
+ 1377  ls
+ 1378  mv *.jou *.log *.mif *.dat vivado_log/
+ 1379  ls
+ 1380  ls vivado_log/
+ 1381  ls
+ 1382  cat min_area_pfile.tmp 
+ 1383  rm min_area_pfile.tmp 
+ 1384  ls
+ 1385  vim vivado_log/minicom.log 
+ 1386  rm vivado_log/minicom.log 
+ 1387  vim vivado_log/minicom.log 
+ 1388  rm vivado_log/minicom.log -f
+ 1389  ls
+ 1390  head examples.desktop 
+ 1391  clae
+ 1392  clear
+ 1393  ls
+ 1394  ls -al
+ 1395  cat .sudo_as_admin_successful 
+ 1396  cat .python_history 
+ 1397  ls -al
+ 1398  clear
+ 1399  df
+ 1400  sudo apt autoclean 
+ 1401  sudo apt autoremove 
+ 1402  sudo apt clean 
+ 1403  df
+ 1404  clear
+ 1405  ls ~/download
+ 1406  evince /media/shigz/win_DiskD/资料/Books/
+ 1407  evince /media/shigz/win_DiskD/资料/Books/C++\ \ Primer中文版（第五版）.pdf 
+ 1408  evince /media/shigz/win_DiskD/资料/Books/C++\ \ Primer中文版（第五版）.pdf &
+ 1409  joplin &
+ 1410  ls
+ 1411  cd program/
+ 1412  ls
+ 1413  git clone https://github.com/ShiGuangzhao/Cpp_Primer_Test.git\
+ 1414  git clone https://github.com/ShiGuangzhao/Cpp_Primer_Test.git
+ 1415  ls
+ 1416  cd Cpp_Primer_Test/
+ 1417  ls
+ 1418  ls -a
+ 1419  vim main.c
+ 1420  vim main.cpp
+ 1421  ls
+ 1422  g++ main.cpp &&./a.out
+ 1423  man screen
+ 1424  g++ main.cpp &&./a.out
+ 1425  joplin &
+ 1426  cd project/openwifi/openwifi/
+ 1427  ls
+ 1428  cd openwifi-hw/
+ 1429  ld
+ 1430  ls
+ 1431  cd ip
+ 1432  ;s
+ 1433  ls
+ 1434  vim openwifi_ip.tcl 
+ 1435  ld
+ 1436  ls
+ 1437  cd ..
+ 1438  ld
+ 1439  ls
+ 1440  google-chrome&
+ 1441  joplin &
+ 1442  cd project/openwifi/openwifi/openwifi-hw/
+ 1443  ls
+ 1444  cd boards/adrv9361z7035/
+ 1445  ls
+ 1446  ls src/
+ 1447  ls
+ 1448  vim openwifi.tcl 
+ 1449  git status
+ 1450  git status .
+ 1451  vim openwifi.tcl 
+ 1452  ls
+ 1453  google-chrome&
+ 1454  joplin &
+ 1455  evince /media/shigz/win_DiskD/资料/Books/C++\ \ Primer中文版（第五版）.pdf &
+ 1456  g++ main.cpp &&./a.out
+ 1457  cd program/Cpp_Primer_Test/
+ 1458  ls
+ 1459  vim main.cpp 
+ 1460  g++ main.cpp &&./a.out
+ 1461  cd program/Cpp_Primer_Test/
+ 1462  ls
+ 1463  vim main.cpp 
+ 1464  google-chrome&
+ 1465  joplin &
+ 1466  evince /media/shigz/win_DiskD/资料/Books/C++\ \ Primer中文版（第五版）.pdf &
+ 1467  g++ main.cpp &&./a.out
+ 1468  cat main.cpp 
+ 1469  cd program/Cpp_Primer_Test/
+ 1470  ls
+ 1471  vim main.cpp 
+ 1472  cd project/openwifi/openwifi/openwifi-hw/
+ 1473  cd ~/project/openwifi/openwifi/openwifi-hw/
+ 1474  ls
+ 1475  vim prepare_adi_lib.sh 
+ 1476  ls
+ 1477  ls ip
+ 1478  cd ip
+ 1479  vim connect_openwifi_ip.tcl 
+ 1480  ls mixer_duc/
+ 1481  ls mixer_duc/src/
+ 1482  vim mixer_duc/src/mixer_duc.cpp 
+ 1483  cd ~/project/openwifi/openwifi/openwifi-hw/
+ 1484  vim mixer_duc/src/mixer_duc.cpp 
+ 1485  cd ip
+ 1486  vim mixer_duc/src/mixer_duc.cpp 
+ 1487  ls fifo32_1clk
+ 1488  ls fifo32_1clk/bd/
+ 1489  tree duc_bank_core_low/
+ 1490  tree duc_bank_core_high/
+ 1491  tree xpu/
+ 1492  tree rx_intf/
+ 1493  ls
+ 1494  tree openofdm_tx/
+ 1495  tree openofdm_rx/
+ 1496  tree openofdm_rx
+ 1497  ls openofdm_rx/
+ 1498  ls
+ 1499  ls openofdm_tx/
+ 1500  ls openofdm_tx/src/
+ 1501  tree mixer_duc fifo32_1clk
+ 1502  tree mixer_duc fifo32_1clk rx_intf
+ 1503  git submodule init openofdm_rx
+ 1504  ls
+ 1505  ls openofdm_rx/
+ 1506  ls openofdm_rx/ -al
+ 1507  rm openofdm_rx/
+ 1508  rm openofdm_rx/ -r
+ 1509  git submodule init openofdm_rx
+ 1510  ls
+ 1511  ls openofdm_rx/ -al
+ 1512  git submodule update openofdm_rx
+ 1513  ls openofdm_rx/ -al
+ 1514  tree openofdm_rx
+ 1515  clear
+ 1516  cd openofdm_rx/
+ 1517  git log
+ 1518  git taf
+ 1519  git tag
+ 1520  ls
+ 1521  git status .
+ 1522  git status 
+ 1523  git log
+ 1524  git checkout dot11zynq
+ 1525  git log
+ 1526  git pull
+ 1527  ls
+ 1528  vim Readme.rst 
+ 1529  ls
+ 1530  cd ..
+ 1531  tree openofdm_tx
+ 1532  tree tx_intf/
+ 1533  tree rx_intf/
+ 1534  cd tx_intf/
+ 1535  ls
+ 1536  cd src/
+ 1537  ls
+ 1538  vim tx_intf.v 
+ 1539  vim tx_bit_intf.v 
+ 1540  google-chrome&
+ 1541  evince /media/shigz/win_DiskD/资料/Books/C++\ \ Primer中文版（第五版）.pdf &
+ 1542  joplin &
+ 1543  cd program/Cpp_Primer_Test/
+ 1544  ls
+ 1545  vim main.cpp 
+ 1546  g++ main.cpp &&./a.out
+ 1547  g++ main.cpp &&./a.out d edwfe ewrfew
+ 1548  cd program/Cpp_Primer_Test/
+ 1549  cd ~/program/Cpp_Primer_Test/
+ 1550  ls
+ 1551  vim main.cpp 
+ 1552  g++ -D NDENUG  main.cpp &&./a.out d edwfe ewrfew
+ 1553  g++ -D NDEBUG  main.cpp &&./a.out d edwfe ewrfew
+ 1554  g++  main.cpp &&./a.out d edwfe ewrfew
+ 1555  g++  main.cpp &&./a.out
+ 1556  ;3A
+ 1557  g++  main.cpp &&./a.out
+ 1558  cd ../project/openwifi/paper/
+ 1559  ls
+ 1560  joplin &
+ 1561  google-chrome
+ 1562  ls download
+ 1563  cd project/openwifi/
+ 1564  ;s
+ 1565  ls
+ 1566  ls openwifi/
+ 1567  lds
+ 1568  ls
+ 1569  clear
+ 1570  mkfir paper
+ 1571  mkdir paper
+ 1572  ls
+ 1573  mkdir doc
+ 1574  ls
+ 1575  ls ~/download
+ 1576  ls
+ 1577  cd ~/download
+ 1578  ;
+ 1579  rm vivado_example2018.rar 
+ 1580  whatis del
+ 1581  mv 智豹电台物理波形总结_v0616.2315.* ../project/openwifi/doc/
+ 1582  mv MIMO-AdHoc自组织网络v2.pdf ../project/openwifi/doc/
+ 1583  ls
+ 1584  evince 37C-29447-0.pdf 
+ 1585  Wi-Fi:802.11 物理层和
+ 1586  mv 37C-29447-0.pdf Wi-Fi:802.11物理层和发射机概述
+ 1587  ls
+ 1588  rm 数据结构与算法分析：C语言描述_原书第2版_高清版.pdf 
+ 1589  ls
+ 1590  cd -
+ 1591  cd paper/
+ 1592  ls
+ 1593  mv ~/download/*.pdf .
+ 1594  ls
+ 1595  ls ../../3GPP/doc/
+ 1596  mv 38901-f00.pdf ../../3GPP/doc/
+ 1597  mv ~/download/38901-f00.doc ../../3GPP/doc/
+ 1598  ls ~/download
+ 1599  mv ~/download/Wi-Fi\:802.11物理层和发射机概述 ../doc/
+ 1600  ls
+ 1601  ls ../doc/
+ 1602  google-chrome
+ 1603  ls
+ 1604  evince Ad_hoc网络_赵志峰.pdf 
+ 1605  rm Ad_hoc网络_赵志峰.pdf 
+ 1606  ls
+ 1607  ls ~/download
+ 1608  cd ~/download
+ 1609  ls
+ 1610  clear
+ 1611  ls
+ 1612  evince IEEE_802.11n关键技术研究_季晓澎.pdf 
+ 1613  cd ~/download
+ 1614  evince IEEE_802.11n关键技术研究_季晓澎.pdf &
+ 1615  ls
+ 1616  evince 基于802.11n无线局域网的同步技术研究_彭晓霜.pdf 
+ 1617  evince 基于IEEE802.11n协议的_省略__OFDM系统中信道估计技术研究_许丹.pdf 
+ 1618  ls
+ 1619  mkdir aaa
+ 1620  cd aaa
+ 1621  ls
+ 1622  mkdir 1
+ 1623  cd 1
+ 1624  touch a.py
+ 1625  cd ..
+ 1626  ls
+ 1627  cp 1 2 -r
+ 1628  cp 1 3 -r
+ 1629  tree
+ 1630  ls
+ 1631  cd ..
+ 1632  ls
+ 1633  touch ccc
+ 1634  rm ccc 
+ 1635  mkdir ccc
+ 1636  cd aaa
+ 1637  ls
+ 1638  for dir in `ls`; do cp ${dir/a.py} ../ccc;done
+ 1639  for dir in `ls`; echo ${dir/a.py} ../ccc;done
+ 1640  for dir in `ls`; echo ${dir/a.py};done
+ 1641  for dir in `ls`; echo ${dir%/a.py};done
+ 1642  for dir in `ls`; echo ${dir%\/a.py};done
+ 1643  for dir in `ls`; do echo ${dir/a.py};done
+ 1644  for dir in `ls`; do echo ${dir}/a.py;done
+ 1645  for dir in `ls`; do cp ${dir}/a.py ../ccc;done
+ 1646  ls ../ccc
+ 1647  ls
+ 1648  tree
+ 1649  $count = 0
+ 1650  $count=0
+ 1651  i=1;for dir in `ls`; do cp ${dir}/a.py ../ccc/$i.py; let i=i+1;done
+ 1652  ls ../ccc
+ 1653  cd ..
+ 1654  rm -r aaa ccc\
+ 1655  rm -r aaa ccc
+ 1656  ls
+ 1657  ls -d
+ 1658  ls -h
+ 1659  ls --help
+ 1660  ls -R
+ 1661  ls --help
+ 1662  man ls
+ 1663  ls
+ 1664  for dir in `ls `; do echo ${dir};done
+ 1665  ls
+ 1666  ls -l
+ 1667  for dir in `ls `; do echo ${dir};done
+ 1668  clear
+ 1669  google-chrome
+ 1670  google-chrome
+ 1671  ls
+ 1672  cd download
+ 1673  ;s
+ 1674  ls
+ 1675  evince IEEE_802.11n关键技术研究_季晓澎.pdf &
+ 1676  joplin &
+ 1677  google-chrome
+ 1678  joplin &
+ 1679  evince IEEE_802.11n关键技术研究_季晓澎.pdf &
+ 1680  ls
+ 1681  evince ieee-standard-for-information-technology-local-and-metropolitan-.pdf 
+ 1682  clear
+ 1683  evince /media/shigz/win_DiskD/资料/Books/C++\ \ Primer中文版（第五版）.pdf &
+ 1684  ls
+ 1685  mv Joplin-1.0.227.AppImage ../文档/
+ 1686  vim ~/.bashrc 
+ 1687  joplin &
+ 1688  cd ~/文档/
+ 1689  ls
+ 1690  rm Joplin-1.0.216.AppImage 
+ 1691  ls
+ 1692  ls -al
+ 1693  chmod 764 Joplin-1.0.227.AppImage 
+ 1694  joplin 
+ 1695  evince /media/shigz/win_DiskD/资料/Books/C++\ \ Primer中文版（第五版）.pdf &
+ 1696  google-chrome&
+ 1697  ps
+ 1698  jo\plin &
+ 1699  joplin &
+ 1700  cd program/Cpp_Primer_Test/
+ 1701  ls
+ 1702  vim main.cpp 
+ 1703  g++  main.cpp &&./a.out
+ 1704  joplin 
+ 1705  g++  main.cpp &&./a.out
+ 1706  vim VectorStack.h
+ 1707  cd program/Cpp_Primer_Test/
+ 1708  vim main.cpp 
+ 1709  g++  *.cpp &&./a.out
+ 1710  cd program/Cpp_Primer_Test/
+ 1711  cd ~/program/Cpp_Primer_Test/
+ 1712  vim VectorStack.h
+ 1713  cd ~/program/Cpp_Primer_Test/
+ 1714  vim main.cpp 
+ 1715  g++  *.cpp &&./a.out
+ 1716  cd ~/program/Cpp_Primer_Test/
+ 1717  ls
+ 1718  vim VectorStack.h
+ 1719  cd ~/program/Cpp_Primer_Test/
+ 1720  vim VectorStack.h
+ 1721  google-chrome&
+ 1722  cd program/
+ 1723  ls
+ 1724  cloc algorithm/
+ 1725  tree algorithm/
+ 1726  tree algorithm/|cat -n
+ 1727  ls
+ 1728  clear
+ 1729  git clone https://github.com/ShiGuangzhao/leetcode.git
+ 1730  ls
+ 1731  cd leetcode/
+ 1732  ;s
+ 1733  ls
+ 1734  ls -al
+ 1735  vim .gitignore 
+ 1736  ls
+ 1737  mkdir 0每日一题
+ 1738  ls
+ 1739  cd 0每日一题/
+ 1740  ls
+ 1741  vim 104_二叉树的最大深度.cpp
+ 1742  cat 104_二叉树的最大深度.cpp 
+ 1743  ls
+ 1744  cd ..
+ 1745  git add .
+ 1746  git status
+ 1747  git commit -m "求二叉树最大深度"
+ 1748  git push origin master 
+ 1749  ls
+ 1750  google-chrome&
+ 1751  cd ~/program/leetcode/0每日一题/
+ 1752  ls
+ 1753  vim 13_LCP_寻宝.cpp
+ 1754  g++  *.cpp &&./a.out
+ 1755  ls
+ 1756  cd ~/program/Cpp_Primer_Test/
+ 1757  ls
+ 1758  vim main.cpp 
+ 1759  cd ~/program/Cpp_Primer_Test/
+ 1760  vim main.cpp 
+ 1761  cd ~/program/Cpp_Primer_Test/
+ 1762  ls
+ 1763  vim main.cpp 
+ 1764  g++  *.cpp &&./a.out
+ 1765  g++  *.cpp &&./a.out\
+ 1766  g++  *.cpp &&./a.out
+ 1767  ls
+ 1768  cat test.txt 
+ 1769  g++  *.cpp &&./a.out
+ 1770  ls
+ 1771  cat test.txt 
+ 1772  google-chrome&
+ 1773  g++  *.cpp &&./a.out
+ 1774  cat test.txt 
+ 1775  cd download
+ 1776  ls
+ 1777  evince 下一代无线局域网\ 802\ 11n的吞吐率、强健性和可靠性.pdf 
+ 1778  evince 下一代无线局域网\ 802\ 11n的吞吐率、强健性和可靠性.pdf &
+ 1779  ls
+ 1780  evince /media/shigz/win_DiskD/资料/Books/C++\ \ Primer中文版（第五版）.pdf &
+ 1781  joplin 
+ 1782  joplin &
+ 1783  google-chrome&
+ 1784  cd ~/program/leetcode/0每日一题/
+ 1785  ls
+ 1786  vim 13_LCP_寻宝.md
+ 1787  cat 13_LCP_寻宝.md 
+ 1788  cat 13_LCP_寻宝.md -n
+ 1789  cat 13_LCP_寻宝.md| head -n 17 > 13_LCP_寻宝.md 
+ 1790  cat 13_LCP_寻宝.md -n
+ 1791  cat 13_LCP_寻宝.md| head -n 17
+ 1792  xsel
+ 1793  xsel > 13_LCP_寻宝.md 
+ 1794  cat 13_LCP_寻宝.md| head -n 17
+ 1795  clear
+ 1796  vim 13_LCP_寻宝.cpp 
+ 1797  vim 13_LCP_寻宝.md
+ 1798  clear
+ 1799  vim 13_LCP_寻宝.md
+ 1800  cat 13_LCP_寻宝.md| head -n 17
+ 1801  vim 13_LCP_寻宝.md
+ 1802  git add .
+ 1803  git status
+ 1804  git log
+ 1805  git commit -m "寻宝刚开始"
+ 1806  git push origin master 
+ 1807  evince /media/shigz/win_DiskD/资料/Books/C++\ \ Primer中文版（第五版）.pdf &
+ 1808  ls
+ 1809  evince 寻宝图转换.pdf 
+ 1810  clear
+ 1811  ls
+ 1812  google-chrome 13_LCP_寻宝.md 
+ 1813  shutdown -h now
+ 1814  cd ~/program/leetcode/0每日一题/
+ 1815  ls
+ 1816  vim 13_LCP_寻宝.cpp 
+ 1817  vim 143_整数拆分.cpp
+ 1818  cat 143_整数拆分.cpp 
+ 1819  vim 143_整数拆分.cpp
+ 1820  cat 143_整数拆分.cpp 
+ 1821  vim 143_整数拆分.cpp
+ 1822  cat 143_整数拆分.cpp 
+ 1823  cd ~
+ 1824  cd download
+ 1825  evince 下一代无线局域网\ 802\ 11n的吞吐率、强健性和可靠性.pdf &
+ 1826  joplin &
+ 1827  vim 13_LCP_寻宝.md
+ 1828  cat 13_LCP_寻宝.md| head -n 17
+ 1829  google-chrome 13_LCP_寻宝.md 
+ 1830  vim 13_LCP_寻宝.md
+ 1831  ls
+ 1832  vim 143_整数拆分.cpp 
+ 1833  git add .
+ 1834  git commit -m "寻宝没做完，整数拆分这个题做得不好但又不想改进"
+ 1835  git status
+ 1836  git push origin master 
+ 1837  evince /media/shigz/win_DiskD/资料/Books/C++\ \ Primer中文版（第五版）.pdf &
+ 1838  vim ~/.vimrc 
+ 1839  vim 143_整数拆分.cpp 
+ 1840  ls
+ 1841  vim 143_整数拆分.cpp 
+ 1842  vim ~/.vimrc 
+ 1843  vim 143_整数拆分.cpp 
+ 1844  shutdown
+ 1845  ls
+ 1846  ls local/
+ 1847  ls local/temp/
+ 1848  cd local/temp/
+ 1849  vim nju_login.py
+ 1850  python3 nju_login.py 
+ 1851  vim nju_login.py
+ 1852  python3 nju_login.py 
+ 1853  vim nju_login.py
+ 1854  python3 nju_login.py 
+ 1855  vim nju_login.py
+ 1856  google-chrome 13_LCP_寻宝.md 
+ 1857  evince /media/shigz/win_DiskD/资料/Books/C++\ \ Primer中文版（第五版）.pdf &
+ 1858  ping www.baidu.com
+ 1859  cd ~/program/leetcode/0每日一题/
+ 1860  ls
+ 1861  vim 面试题08_03_魔术索引.cpp
+ 1862  cat 面试题08_03_魔术索引.cpp 
+ 1863  joplin &
+ 1864  google-chrome 13_LCP_寻宝.md 
+ 1865  ls
+ 1866  evince /media/shigz/win_DiskD/资料/Books/C++\ \ Primer中文版（第五版）.pdf &
+ 1867  g++  *.cpp &&./a.out
+ 1868  vim a.txt
+ 1869  g++  *.cpp &&./a.out
+ 1870  [A
+ 1871  g++  *.cpp &&./a.out
+ 1872  joplin &
+ 1873  g++  *.cpp &&./a.out
+ 1874  tail main.cpp 
+ 1875  tail main.cpp -n 20
+ 1876  g++  *.cpp &&./a.out
+ 1877  tail main.cpp -n 20
+ 1878  tail main.cpp -n 28 | head -n 20
+ 1879  cd local/temp/
+ 1880  ls
+ 1881  cd ~/program/Cpp_Primer_Test/
+ 1882  ls
+ 1883  vim main.cpp 
+ 1884  ping baidu.com
+ 1885  google-chrome
+ 1886  joplin &
+ 1887  evince /media/shigz/win_DiskD/资料/Books/C++\ \ Primer中文版（第五版）.pdf &
+ 1888  cd ~/program/Cpp_Primer_Test/
+ 1889  ls
+ 1890  git pull 
+ 1891  git status
+ 1892  head VectorStack.h 
+ 1893  head VectorStack.h -n 20
+ 1894  head VectorStack.c -n 20
+ 1895  head VectorStack.cpp -n 20
+ 1896  ls
+ 1897  git add .
+ 1898  vim WordChanger.cpp
+ 1899  git add .
+ 1900  vim WordChanger.cpp
+ 1901  git add .
+ 1902  gti commit -m "完成单词转换map"
+ 1903  git commit -m "完成单词转换map"
+ 1904  git push origin master 
+ 1905  ls
+ 1906  cat test.txt 
+ 1907  rm  test.txt 
+ 1908  ls
+ 1909  cat a.
+ 1910  cat a.txt 
+ 1911  rm a.txt 
+ 1912  ls
+ 1913  g++ WordChanger.cpp 
+ 1914  ./a.out 
+ 1915  g++ WordChanger.cpp 
+ 1916  ./a.out 
+ 1917  g++ WordChanger.cpp &&./a.out 
+ 1918  cat *.txt
+ 1919  g++ WordChanger.cpp &&./a.out 
+ 1920  ls
+ 1921  cd ~/program/Cpp_Primer_Test/
+ 1922  ;s
+ 1923  ls
+ 1924  clear
+ 1925  ls
+ 1926  vim main.cpp 
+ 1927  g++ main.cpp &&./a.out 
+ 1928  ls
+ 1929  g++ main.cpp
+ 1930  ls
+ 1931  g++ main.cpp
+ 1932  ls
+ 1933  vim WordChanger.cpp 
+ 1934  g++  *.cpp &&./a.out
+ 1935  vim WordChanger.cpp 
+ 1936  cd ~/program/Cpp_Primer_Test/
+ 1937  vim main.cpp 
+ 1938  g++  *.cpp &&./a.out
+ 1939  vim main.cpp 
+ 1940  g++  *.cpp &&./a.out
+ 1941  cd ~/program/Cpp_Primer_Test/
+ 1942  git status
+ 1943  git add .
+ 1944  git commit -m "使用智能指针调用析构函数"
+ 1945  git push origin master 
+ 1946  ls download
+ 1947  cd download
+ 1948  rm 人人译视界视频翻译的基本操作流程.docx 
+ 1949  evince 55C-28006-0.pdf 
+ 1950  rm 55C-28006-0.pdf 
+ 1951  ;s
+ 1952  ls
+ 1953  ls ~/文档/
+ 1954  rm Joplin-Setup-1.0.227.exe 
+ 1955  ls
+ 1956  vim ieee-standard-for-information-technology-local-and-metropolitan-.pdf 
+ 1957  ls
+ 1958  mv \[www.jqhtml.com\]算法导论\ 第三版\ 中文-1.pdf 算法导论\ 第三版\ 中文-1.pdf 
+ 1959  ls
+ 1960  evince 算法导论\ 第三版\ 中文-1.pdf 
+ 1961  ls /media/shigz/win_DiskD/
+ 1962  ls /media/shigz/win_DiskD/资料/Books/
+ 1963  mv 算法导论\ 第三版\ 中文-1.pdf /media/shigz/win_DiskD/资料/Books/
+ 1964  ls
+ 1965  cd ../project/openwifi/
+ 1966  ls
+ 1967  ls doc/
+ 1968  ls paper/
+ 1969  ls
+ 1970  ls ~/download
+ 1971  mv ~/download/*.pdf .
+ 1972  ls
+ 1973  mv *.pdf paper/
+ 1974  ;s
+ 1975  ls
+ 1976  tree
+ 1977  ls
+ 1978  clear\
+ 1979  clear
+ 1980  ls
+ 1981  cd -
+ 1982  ;s
+ 1983  ls
+ 1984  ls ../文档/
+ 1985  cd download
+ 1986  evince ieee-standard-for-information-technology-local-and-metropolitan-.pdf 
+ 1987  ls
+ 1988  google-chrome
+ 1989  joplin &
+ 1990  108/12
+ 1991  python3
+ 1992  google-chrome
+ 1993  df
+ 1994  ls
+ 1995  clear
+ 1996  electronic-wechat 
+ 1997  joplin &
+ 1998  g++ WordFinder.cpp 
+ 1999  ./a.out 
+ 2000  g++ WordFinder.cpp 
+ 2001  history |grep cd |head
+ 2002  history > 文本查找.txt
