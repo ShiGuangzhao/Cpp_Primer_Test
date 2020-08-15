@@ -72,7 +72,6 @@ void ReadToVector(istream &ip, vector<string> &text) {
     }
 }
 
-
 // 输入文件名查找，或直接输入字符串
 // 将文件或字符串读入到字符串容器中，并调用查找程序
 void WordFinder(const string &str, const string &word) {
